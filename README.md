@@ -3,6 +3,29 @@ Gesture System control aims to demonstrate an easier and efficient way of intera
 
 Python Project to Perform Various Task using Hand and by Clicking Virtual
 Floating button using Hand Gestures...
+
+### Prerequisites
+
+1. Webcam
+
+### Installing
+
+A step by step series of examples that tell you how to run this project
+
+1. Install all the requirements
+
+```
+pip install -r requirements.txt
+```
+
+2. Run the Given python file.
+```
+python main.py
+```
+
+You will see the new webcam windows being streamed with the floating button.
+
+
 ## Authors
 
 - [@AakashRanjansh](https://github.com/AakashRanjansh)
