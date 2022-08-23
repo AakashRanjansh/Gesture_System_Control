@@ -31,6 +31,9 @@ python main.py
 
 You will see the new webcam windows being streamed with the floating button.
 
+## Output Screenshot
+
+https://user-images.githubusercontent.com/60313003/186092689-44076e95-bce1-480a-a385-8e34b5b204b5.mp4
 
 ## Authors
 
