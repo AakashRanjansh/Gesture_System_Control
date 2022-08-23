@@ -15,7 +15,7 @@ A step by step series of examples that tell you how to run this project
 1. Clone the project
 
 ```bash
-  git clone https://link-to-project
+  git clone https://github.com/AakashRanjansh/Gesture_System_Control.git
 ```
 
 2. Install all the requirements
