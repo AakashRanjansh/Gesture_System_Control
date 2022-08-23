@@ -33,7 +33,8 @@ You will see the new webcam windows being streamed with the floating button.
 
 ## Output Screenshot
 
-Main Screen
+### Main Screen
+
 ![Picture1](https://user-images.githubusercontent.com/60313003/186094788-b5c47531-eabd-4ff6-a7d5-2a2116fae8e6.png)
 
 ![ezgif com-gif-maker](https://user-images.githubusercontent.com/60313003/186093236-9a62b586-be8e-4b00-ae5e-6507f68bac8c.gif)
