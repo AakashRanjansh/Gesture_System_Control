@@ -37,7 +37,6 @@ You will see the new webcam windows being streamed with the floating button.
 
 ![Picture1](https://user-images.githubusercontent.com/60313003/186094788-b5c47531-eabd-4ff6-a7d5-2a2116fae8e6.png)
 
-
 ### Opened Notedpad(Sublime text)
 
 ![ezgif com-gif-maker](https://user-images.githubusercontent.com/60313003/186093236-9a62b586-be8e-4b00-ae5e-6507f68bac8c.gif)
@@ -61,6 +60,10 @@ You will see the new webcam windows being streamed with the floating button.
 ### Opened WhatsApp and messaging using Voice Command
 
 ![Picture6](https://user-images.githubusercontent.com/60313003/186095071-ecbe9f30-f85f-4745-a12c-49fa1efcab04.jpg)
+
+## Support
+
+For support, email sahaakashranjan@proton.me
 
 ## Authors
 
