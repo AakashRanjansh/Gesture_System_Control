@@ -118,8 +118,6 @@ while cap.isOpened():
                     # elif aakashkey1 == 'Librewlf':
                     #     command = "librewolf.exe"
                     #     os.system(command)
-                    #     time.sleep(5)
-                    #     pyautogui.hotkey('win', 'down')
 
                     elif aakashkey1 == "?sapp":
                         web.open("https://web.whatsapp.com/send?phone=+9779825830731")
