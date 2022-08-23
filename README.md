@@ -15,7 +15,7 @@ A step by step series of examples that tell you how to run this project
 1. Clone the project
 
 ```bash
-  git clone https://link-to-project
+  git clone https://github.com/AakashRanjansh/Gesture_System_Control.git
 ```
 
 2. Install all the requirements
@@ -36,7 +36,6 @@ You will see the new webcam windows being streamed with the floating button.
 ### Main Screen
 
 ![Picture1](https://user-images.githubusercontent.com/60313003/186094788-b5c47531-eabd-4ff6-a7d5-2a2116fae8e6.png)
-
 
 ### Opened Notedpad(Sublime text)
 
@@ -62,7 +61,11 @@ You will see the new webcam windows being streamed with the floating button.
 
 ![Picture6](https://user-images.githubusercontent.com/60313003/186095071-ecbe9f30-f85f-4745-a12c-49fa1efcab04.jpg)
 
+## Support
+
+For support, email sahaakashranjan@proton.me
+
 ## Authors
 
-- [@AakashRanjansh](https://github.com/AakashRanjansh)
+- [@Ranjan Kumar Sah](https://github.com/AakashRanjansh)
 
