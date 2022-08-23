@@ -67,5 +67,5 @@ For support, email sahaakashranjan@proton.me
 
 ## Authors
 
-- [@AakashRanjansh](https://github.com/AakashRanjansh)
+- [@Ranjan Kumar Sah](https://github.com/AakashRanjansh)
 
