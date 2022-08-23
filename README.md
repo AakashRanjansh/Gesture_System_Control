@@ -12,13 +12,19 @@ Floating button using Hand Gestures...
 
 A step by step series of examples that tell you how to run this project
 
-1. Install all the requirements
+1. Clone the project
+
+```bash
+  git clone https://link-to-project
+```
+
+2. Install all the requirements
 
 ```
 pip install -r requirements.txt
 ```
 
-2. Run the Given python file.
+3. Run the Given python file.
 ```
 python main.py
 ```
